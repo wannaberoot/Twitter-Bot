@@ -30,6 +30,7 @@ The function that I have defined for tweeting writes one of the sentences we hav
 
 ![---](/images/3.png)
 
-# Note: You may need to make changes on the code depending on the change of xpath directories or the browser version on your system.
+# Note: 
+You may need to make changes on the code depending on the change of xpath directories or the browser version on your system.
 
 ## Thank you for your interest, I hope it was useful.
