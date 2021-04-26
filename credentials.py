@@ -1,2 +1,2 @@
-userName = "Twitter_User_Name"
-password = "Twitter_Password"
+userName = "stupidroot"
+password = "Ozan199735"

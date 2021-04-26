@@ -33,7 +33,7 @@ def main():
         kurtlar_vadisi()
         kvp = "{}".format(kurtlar_vadisi())
         login.sendTweet(kvp)
-        time.sleep(5)
+        time.sleep(10)
 
 
 if __name__ == "__main__":
